@@ -1,0 +1,5 @@
+tqdm>=4.0.0
+numpy>=1.17.0
+pytorch_ignite>=0.4.2
+torch>=1.8.0
+pandas>=1.0.0
